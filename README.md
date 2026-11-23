@@ -64,8 +64,7 @@
 ## 📈 Atividade
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaquino0&show_icons=true&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA&locale=pt-br&hide=stars,prs,issues" alt="Estatísticas">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Aaquino0&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" alt="Sequência">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Aaquino0&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&locale=pt_BR" alt="Sequência">
 </p>
 
 <p align="center">
